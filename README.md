@@ -66,7 +66,7 @@ You need **Node.js 18+** and a free Gemini API key from [Google AI Studio](https
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/SpeakUp-AI.git
+git clone https://github.com/Chhavi-jain7/SpeakUp-AI.git
 cd SpeakUp-AI
 
 # 2. Backend
@@ -171,12 +171,14 @@ SpeakUp-AI/
 
 Ideas and pull requests are welcome. Open an issue first for bigger changes.
 
-## 📄 License
+---
 
-Add a license of your choice, for example MIT, in a `LICENSE` file.
+
+
 
 <div align="center">
 
+
 *You don't have to speak perfectly. You just have to start.* 🐱
 
-</div>"# SpeakUp-AI" 
+</div> 
